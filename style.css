@@ -1,0 +1,42 @@
+
+.mainDiv {
+    background-color: #038C7F;
+    margin-top: 2%;
+    padding: 2%;
+    border-radius: 10px;
+    height: min-content;
+}
+
+.taskName {
+    width: 100%;
+}
+
+.createdTask {
+    width: 70%;
+    border: none;
+    padding: 5px 10px;
+    background-color: aquamarine;
+}
+
+.taskDiv {
+    background-color: aquamarine;
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+#actionDiv {
+    display: inline-block;
+}
+
+button {
+    border: none;
+    margin: 2px 5px;
+    background-color: aquamarine;
+}
+
+#taskList {
+    margin: 50px 0;
+}
